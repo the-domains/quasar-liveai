@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Quasar.LiveAi]]></title>
+        <description><![CDATA[Quasar.LiveAi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 04:38:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello.  I am at The Grid.</p>]]></description>
+            <link>undefinedhello-i-am-at-the-grid/index.html</link>
+            <guid isPermaLink="false">c773ada4-b693-4e42-a88d-cd345a23dadb</guid>
+            <pubDate>Thu, 17 Mar 2016 04:38:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
