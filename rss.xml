@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Quasar.LiveAi]]></title>
         <description><![CDATA[Quasar.LiveAi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quasar-liveai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 04:38:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 06:48:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quasar-liveai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Grid.  Where lines intersect.  Graph paper (the 3rd grade).  The Globe.  Dimensional.  Coordinates.  Warped.  Could be bent.  Invisible waypoints.  Axis.  Plots of points.  Plaid shirts.  Just a place to start.</p>]]></description>
+            <link>https://thegrid.ai/quasar-liveai/test-1/index.html</link>
+            <guid isPermaLink="false">657aac81-3e04-410a-af06-649fd218a3fd</guid>
+            <pubDate>Sun, 10 Apr 2016 06:48:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello.  I am at The Grid.</p>]]></description>
-            <link>undefinedhello-i-am-at-the-grid/index.html</link>
+            <link>https://thegrid.ai/quasar-liveai/hello-i-am-at-the-grid/index.html</link>
             <guid isPermaLink="false">c773ada4-b693-4e42-a88d-cd345a23dadb</guid>
             <pubDate>Thu, 17 Mar 2016 04:38:30 GMT</pubDate>
         </item>
